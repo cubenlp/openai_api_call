@@ -1,4 +1,6 @@
-> **中文文档移步[这里](README_zh_CN.md)。**
+> New development goes to [chatapi_toolkit](https://github.com/cubenlp/chatapi_toolkit)
+> 
+> 该仓库已迁移至 [chatapi_toolkit](https://github.com/cubenlp/chatapi_toolkit)
 
 # Openai API call
 [![PyPI version](https://img.shields.io/pypi/v/openai_api_call.svg)](https://pypi.python.org/pypi/openai_api_call)

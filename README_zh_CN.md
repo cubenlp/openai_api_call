@@ -1,3 +1,7 @@
+> New development goes to [chatapi_toolkit](https://github.com/cubenlp/chatapi_toolkit)
+> 
+> 该仓库已迁移至 [chatapi_toolkit](https://github.com/cubenlp/chatapi_toolkit)
+
 # OpenAI API 
 [![PyPI version](https://img.shields.io/pypi/v/openai_api_call.svg)](https://pypi.python.org/pypi/openai_api_call)
 [![Tests](https://github.com/cubenlp/openai_api_call/actions/workflows/test.yml/badge.svg)](https://github.com/cubenlp/openai_api_call/actions/workflows/test.yml/)
